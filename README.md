@@ -102,3 +102,4 @@ All Travis CI API V2 (and 2.1) documentation is maintained in `slate/source` and
 ## License
 
 Distributed under the [MIT license](https://opensource.org/licenses/MIT), like other Travis CI projects.
+https://travis-ci.com/travis-ci/docs-travis-ci-com.svg?branch=master
